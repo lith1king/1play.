@@ -1,4 +1,4 @@
-token=NTM0MDI0NjY2MDU1MDQ5MjE4.DxzlUg.00GHyquJfNSkPfUEmHVBxuWQe4Q
+token=NTM0MDI4MzU4ODgzNzM3NjEw.DxzoSw.iVxyYJrAfi6coZgveXG3z_3CQ8o
 owner=526864822348808193
 prefix= E
 game= Ehelp | by:ezookik
